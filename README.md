@@ -13,11 +13,11 @@ An online bookstore implemented with JavaEE with an admin panel to sell books, o
 ![ADD_PUBLISHER](/screenshots/add_publisher.jpg?raw=true)
 - Promote registered customers to have managers credentials
 - View the following reports on sales
-a. The total sales for books in the previous month
-b. The top 5 customers who purchase the most purchase amount in descending order for the last
+  - The total sales for books in the previous month
+  - The top 5 customers who purchase the most purchase amount in descending order for the last
 three months
-c. The top 10 selling books for the last three months
-All reports are generated in PDF format and can be downloaded from the web app.
+  - The top 10 selling books for the last three months
+(All reports are generated in PDF format and can be downloaded from the web app.)
 ![REPORTS](/screenshots/report_sample.jpg?raw=true)
 
 #### As a customer I can:
