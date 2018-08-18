@@ -32,7 +32,7 @@ three months
 - Edit and view my profile data
 
 ## Technical Prespective
-The project is implemented using JavaEE and use MySql as database storage. The application is tested with more than 10 million records to get instant results from auto complete search or in filterations. Frontend is implemented using jsp. Select2 and datatable plugin are used through the application, and notification system to tell you your cart status. 
+The project is implemented using JavaEE and use MySql as database storage. The application is tested with more than 10 million records to get instant results from autocomplete search or filtrations. The frontend is implemented using JSP. Select2 and DataTable plugin are used through the application, and notification system to tell you your cart status.
 
 ### ERD
 ![ERD](/screenshots/erd.jpg?raw=true)
